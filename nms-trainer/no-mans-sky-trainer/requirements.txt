@@ -1,0 +1,9 @@
+# No Man's Sky Trainer - .NET Dependencies
+# This file lists NuGet packages required for the project.
+# Use: dotnet restore
+
+Memory.dll >= 1.0.1
+Newtonsoft.Json >= 13.0.3
+NUnit >= 4.0.1
+NUnit3TestAdapter >= 4.5.0
+Microsoft.NET.Test.Sdk >= 17.9.0
